@@ -1,6 +1,6 @@
 ### I am creating my github readme.md
 
-Here are some ideas to get you started:
+I am a solution-focused web development student at Lambda School with experience in web-based applications currently looking for a position that would allow me to create new software and web applications that will utilize my experiences in government, business, and mortgage industry. I am fascinated in the creation process of software applications that meet the customers’ needs while advancing the organizations position in the marketplace. Participated in development and implementation of web-based solutions during build weeks and Labs. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
