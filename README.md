@@ -6,6 +6,6 @@ I am a solution-focused web development student at Lambda School with experience
 - 🌱 I’m currently learning more about software development and team collaboration at Lambda School. 
 - 📫 How to reach me: ...[https://www.linkedin.com/in/robert-elias/](https://www.linkedin.com/in/robert-elias/)
 - ⚡ Fun fact: I can play guitar, love to cook, and read or listen to audio books. 
-- Feel free to review my pinned github repos below. 
+- :arrow_down: Feel free to review my pinned github repos below. 
 ### Thank you for visiting.
 
