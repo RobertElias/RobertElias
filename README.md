@@ -4,8 +4,8 @@ I am a solution-focused web development student at Lambda School with experience
 
 - 🔭 I’m currently working on Groomers Express project through Lambda Labs. 
 - 🌱 I’m currently learning more about software development and team collaboration at Lambda School. 
-- 📫 How to reach me: ...[https://www.linkedin.com/in/robert-elias/](https://www.linkedin.com/in/robert-elias/)
-- :link: ...[https://www.robert-elias.com](https://www.robert-elias.com)
+- 📫 How to connect with me on linknedIn: ...[https://www.linkedin.com/in/robert-elias/](https://www.linkedin.com/in/robert-elias/)
+- :link: You can visit my portfolio site here ...[https://www.robert-elias.com](https://www.robert-elias.com)
 - ⚡ Fun fact: I can play guitar, love to cook, and read or listen to audio books. 
 - :arrow_down: Feel free to review my pinned github repos below. 
 ### Thank you for visiting.
