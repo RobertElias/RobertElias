@@ -1,6 +1,6 @@
 ### Hello I am Robert Elias :wave:
 
-I am a solution-focused Emerging Technology Analyst with experience in web-based applications, government technology, IT infrastructure, and emerging technologies. I bring a unique blend of software development expertise, IT system administration, and cloud computing skills—gained through both hands-on projects and professional experience with the U.S. federal government and private sector industries, including business and mortgage.
+I am a solution-focused Emerging Technology Analyst with experience in web-based applications, government technology, IT infrastructure, and emerging technologies. I bring a unique blend of software development expertise, IT system administration, and cloud computing skills—gained through both hands-on projects and professional experience with the U.S. federal government and private sector industries, including the mortgage industry.
 
 My work includes designing and implementing scalable solutions, managing enterprise Linux environments, and supporting secure, efficient IT operations. I have contributed to the development and deployment of web-based applications, participated in full lifecycle software projects, and collaborated cross-functionally to deliver solutions that meet business and customer needs while advancing organizational goals.
 
